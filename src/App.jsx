@@ -1,4 +1,4 @@
-import { NewTodoFrom } from "./NoewTodoForm";
+import { NewTodoFrom } from "./NewTodoForm";
 import "./styles.css";
 import { useEffect, useState } from "react";
 import { TodoList } from "./TodoList";
